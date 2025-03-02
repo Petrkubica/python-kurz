@@ -8,11 +8,12 @@
 # print(kuchařka)
 
 
-import random
+# import random
 
-names=input("napiš jména všech co budou platit a odděl je čarkou\n")
+# names=input("napiš jména všech co budou platit a odděl je čarkou\n")
 
-list_people=names.split(", ")
-random_number = random.randint(0, len(list_people)-1)
+# list_people=names.split(", ")
+# random_number = random.randint(0, len(list_people)-1)
 
-print(f"{list_people[random_number]} bude dnes platit učet")
+# print(f"{list_people[random_number]} bude dnes platit učet")ˇ
+
